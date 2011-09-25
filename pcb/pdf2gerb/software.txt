@@ -1,1 +1,0 @@
-The Gerber and NC Drill files were created using pdf2gerb: http://swannman.wordpress.com/projects/pdf2gerb.
