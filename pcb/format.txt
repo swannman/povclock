@@ -1,0 +1,9 @@
+Gerber (.grb) files are:
+ - 2.4 format
+ - absolute coordinates
+ - omit leading zeros
+
+NC Drill (.drd) files are
+ - 2.4 format
+ - absolute coordinates
+ - explicit decimal point
