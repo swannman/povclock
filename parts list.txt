@@ -1,0 +1,32 @@
+#   ITEM
+1   74HC04 hex inverter
+3   74HC08 quad 2-input AND
+3   74HC32 quad OR
+1   74HC74 dual D-type positive-edge flip-flop
+1   74HC137 3-8 demultiplexer (active low)
+6   74HC192 synchronous 4-bit counter
+1   74HC237 3-8 demultiplexer (active high)
+3   74HC244 octal 3-state buffer
+1   74HC541 octal 3-state buffer (non-inverting)
+1   74HC590 synchronous 8-bit counter
+1   74HC4075 triple 3-input OR
+1   74HC4511 BCD to 7-segment decoder
+1   555CN timer
+1   ICM 7242 timebase
+1   H21A1 optical interrupter
+1   MAX603 5V linear regulator
+
+1   3.3K resistor
+6   220 resistor
+1   200K resistor
+1   100K resistor
+1   1.2K variable resistor (MOUSER 652-3296W-1-202LF)
+1   3.3uF polyester film capacitor (MOUSER 505-MKS23.3/63/5)
+4   0.1uF tantalum capacitor
+27  0.1uF ceramic disc capacitor
+2   10uF electrolytic capacitor, 9V or better
+
+1   SPDT switch
+5   10-pin connector (MOUSER 571-114453590)
+5   10-pin connector header (MOUSER 571-114451200)
+1   10-connector ribbon cable (MOUSER 517-3801/10)
